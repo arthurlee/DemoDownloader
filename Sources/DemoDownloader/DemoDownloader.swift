@@ -1,3 +1,3 @@
 public struct DemoDownloader {
-    var text = "Hello, DemoDownloader!"
+    public var text = "Hello, DemoDownloader!"
 }
